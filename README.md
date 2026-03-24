@@ -132,6 +132,4 @@ The `getPositiveInput()` helper method ensures:
 
 ---
 
-## License
-
-This project is open source and available for personal and educational use.
+## github repository
